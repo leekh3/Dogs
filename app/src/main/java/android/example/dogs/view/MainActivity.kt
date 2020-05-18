@@ -1,6 +1,6 @@
-package android.example.dogs2.view
+package android.example.dogs.view
 
-import android.example.dogs2.R
+import android.example.dogs.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController

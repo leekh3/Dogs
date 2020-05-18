@@ -1,4 +1,4 @@
-package android.example.dogs2
+package android.example.dogs
 
 import org.junit.Test
 

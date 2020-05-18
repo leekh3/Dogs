@@ -1,4 +1,4 @@
-package android.example.dogs2
+package android.example.dogs
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
